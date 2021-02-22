@@ -1,0 +1,17 @@
+.container-ale { max-width: 200px; margin: 0 auto; border: 2px solid #ccc; }
+.box-ale { margin: 5px; color:#ffffff ; text-align: center; font-size: 1.5em; }
+.color1{background-color: #922727;}  
+.color2{background-color: #658fdd;}  
+.color3{background-color: #da7a57;}  
+.color4{background-color: #b2e9b2;}  
+.color5{background-color: #7f26be;}  
+
+/* Flex */
+.flex { display: flex; }
+.flex-wrap { flex-wrap: wrap; }
+/* Flex direction */
+.row { flex-direction: row; }
+.row-reverse { flex-direction: row-reverse; }
+.column { flex-direction: column; }
+.column-reverse { flex-direction: column-reverse; }
+  
